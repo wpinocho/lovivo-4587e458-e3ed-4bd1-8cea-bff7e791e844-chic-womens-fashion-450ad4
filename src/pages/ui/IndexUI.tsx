@@ -47,7 +47,7 @@ export const IndexUI = ({ logic }: IndexUIProps) => {
                 Spring 2025
               </p>
               <h1 className="font-serif text-6xl md:text-7xl lg:text-8xl mb-6 tracking-editorial leading-none">
-                New Drops
+                New Drops!!!
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-lg">
                 Discover our latest arrivals. Refined silhouettes and timeless elegance for the modern wardrobe.
