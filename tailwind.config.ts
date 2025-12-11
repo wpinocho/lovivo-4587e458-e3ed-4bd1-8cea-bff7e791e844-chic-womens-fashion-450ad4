@@ -68,6 +68,15 @@ export default {
 				md: 'calc(var(--radius) - 2px)',
 				sm: 'calc(var(--radius) - 4px)'
 			},
+			fontFamily: {
+				'serif': ['Playfair Display', 'Georgia', 'serif'],
+				'sans': ['Inter', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'sans-serif']
+			},
+			letterSpacing: {
+				'editorial': '-0.02em',
+				'wide': '0.1em',
+				'widest': '0.2em'
+			},
 			keyframes: {
 				'accordion-down': {
 					from: {
